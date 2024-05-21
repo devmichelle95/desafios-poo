@@ -1,0 +1,10 @@
+package telefone;
+
+public class Telefone implements Atender {
+	
+	public void ligar() {
+	System.out.println("Ligando");
+	}
+	
+
+}

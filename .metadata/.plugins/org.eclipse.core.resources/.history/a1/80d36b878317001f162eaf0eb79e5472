@@ -1,0 +1,5 @@
+package telefone.copy;
+
+public interface Atender {
+	public void atender();
+	}

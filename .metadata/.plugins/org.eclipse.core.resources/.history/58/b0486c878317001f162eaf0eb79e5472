@@ -1,0 +1,6 @@
+package telefone.copy;
+
+public interface Correio {
+	public void iniciarCorreioDeVoz ();
+
+}

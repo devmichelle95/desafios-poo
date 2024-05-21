@@ -1,0 +1,5 @@
+package reprodutorMusical.copy;
+
+public interface Tocar {
+
+}

@@ -1,0 +1,5 @@
+package iphone.telefone;
+
+public interface CorreioDeVoz {
+
+}

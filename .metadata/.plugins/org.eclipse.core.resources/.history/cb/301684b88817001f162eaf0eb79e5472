@@ -1,0 +1,13 @@
+package iphone;
+import iphone.navegador.*;
+import iphone.reprodutorMusical.*;
+import iphone.telefone.*;
+
+public class Celular implements Adicionar, Atualizar, Exibir, SeletorMuscia, Tocar, Pausar, Atendimento, CorreioDeVoz, Ligacao  {
+	public static void main(String[]args) {
+		Navegador navegador = new Adicionar();
+		navegador.adicionar();
+	}
+	
+
+}

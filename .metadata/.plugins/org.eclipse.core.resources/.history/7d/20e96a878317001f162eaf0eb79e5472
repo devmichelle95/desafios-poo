@@ -1,0 +1,6 @@
+package telefone.copy;
+
+public interface Ligar {
+	public void ligar();
+
+}

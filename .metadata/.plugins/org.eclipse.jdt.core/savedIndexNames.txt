@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\miche\Documents\Aulas-Java\trilha-java-basico\iPhone2007DIO\.metadata\.plugins\org.eclipse.jdt.core
+3566166767.index
+1865797976.index
+3413270776.index
